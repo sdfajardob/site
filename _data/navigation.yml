@@ -2,12 +2,14 @@
 main:
   - title: "Projects"
     url: /portfolio/
+
   
   - title: "Publications"
     url: /publications/
 
+
   - title: "CV"
-    url: /CVsfb.html
+    url: /cvsfb/
   
   
   #- title: "Talks"
