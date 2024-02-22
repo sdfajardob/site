@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Sebastian Fajardo"
 title_separator          : "-"
 name                     : &name "Sebastian Fajardo"
-description              : &description "personal description"
+description              : &description "Computational archaeologist"
 url                      : https://sfajardo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sfajardo.github.io"
+repository               : "sdfajardob/sfajardo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "portrait1.png"
   name             : "Sebastian Fajardo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Exploring ancient complex systems"
   location         : "Earth"
   employer         : "Leiden University"
   uri              : # URL
