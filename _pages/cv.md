@@ -30,7 +30,7 @@ Education
 
 Skills
 ======
-## Skills
+## Technical
 * Statistical, multidimensional and clustering analyses and visualization in Python, R, Matlab, SPSS, and SYSTAT.
 * Network analysis and visualization in GEPHI, UCINET, and NETDRAW.
 * Agent-based simulation modelling in NetLogo and Python.
