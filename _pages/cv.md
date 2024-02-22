@@ -64,7 +64,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Profesional Service
 ======
 **Reviewer for:**
 
