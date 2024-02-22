@@ -12,7 +12,7 @@ title                    : "Sebastian Fajardo"
 title_separator          : "-"
 name                     : &name "Sebastian Fajardo"
 description              : &description "Computational archaeologist"
-url                      : https://sfajardo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sdfajardob.github.io/sfajardo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sdfajardob/sfajardo.github.io"
 
