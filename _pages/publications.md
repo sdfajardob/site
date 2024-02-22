@@ -9,8 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## List of Publications
-
 **Peer-reviewed Publications**
 
 - **2024** Chasan, Rivka, Liliana Iwona Baron, Sebastian Fajardo, Yonatan Sahle, Geeske Langejans. *Molecular characterization of latex-based ethnographic African adhesives and its archaeological implications.* (Under review)
