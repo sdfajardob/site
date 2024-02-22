@@ -9,37 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+Employment and Research Positions
+======
+* **2023-09 – Present:** Postdoctoral Researcher, Leiden Institute of Advanced Computer Science, Leiden University (The Netherlands).
+* **2019-09 – 2023-08:** Postdoctoral Researcher, Faculty of Mechanical, Maritime and Materials Engineering (3mE), TU Delft (Netherlands).
+* **2018-11 – 2019-08:** Associate Researcher of Anthropology, Department of Anthropology, University of Pittsburgh (United States).
+* **2018-01 – 2018-11:** Heritage Resources Leader, Sustainable Development Division, Ecopetrol S.A. (Colombia).
+* **2017-04 – 2018-01:** Archaeology Data Lab Coordinator, Geocol S.A. (Colombia).
+* **2016-09 – 2016-12:** Heritage Advisor, Sogamoso municipality (Colombia).
+* **2016-03 – 2017-04:** Director and Founder, MAS ESTUDIOS SAS (Colombia).
+* **2008-04 – 2010-07:** Archaeologist, Estudios Técnicos S.A. (Colombia).
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **2016:** PhD Anthropology, University of Pittsburgh.
+* **2009:** MSc Archaeology, Universidad Nacional de Colombia.
+* **2006:** BA Anthropology, Universidad Nacional de Colombia.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills
+* Statistical, multidimensional and clustering analyses and visualization in Python, R, Matlab, SPSS, and SYSTAT.
+* Network analysis and visualization in GEPHI, UCINET, and NETDRAW.
+* Agent-based simulation modelling in NetLogo and Python.
+* Complex system modelling and process mining with Petri nets with CPN Tools, Snoopy Software, and ProM 6.10.
+* Programming in R, Python and Matlab.
+* Machine learning using Tensorflow, Pytorch, and Keras.
+* Geospatial analysis and visualization in ArcGIS, IDRISI and Autocad Map.
+* GPR, Magnetometer, Sonar, and 4-band imagery data processing, analysis and visualization.
+
+## Languages
+* Spanish (Native)
+* English (C2)
+* Dutch (NT2-II diploma)
+
 
 Publications
 ======
@@ -61,4 +66,16 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+**Reviewer for:**
+
+* Revista Colombiana de Antropología (Colombia)
+* Revista Colombiana de Arqueología (Colombia)
+* Boletín de Antropología Universidad de Antioquia (Colombia)
+* Revista intersecciones en Antropología (Argentina)
+* Journal of Computer Applications in Archaeology (United Kingdom)
+
+**Memberships:**
+
+* European Society for the Study of Human Evolution
+* Computer Applications and Quantitative Methods in Archaeology
+* Society of Africanist Archaeologists
