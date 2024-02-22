@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sebastian Fajardo"
 title_separator          : "-"
 name                     : &name "Sebastian Fajardo"
 description              : &description "personal description"
