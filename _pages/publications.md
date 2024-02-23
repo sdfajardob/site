@@ -9,14 +9,13 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-**Preprints**
+**Preprints and under review**
 
-- **2024** Chasan, Rivka, Liliana Iwona Baron, **Sebastian Fajardo**, Yonatan Sahle, Geeske Langejans. *Molecular characterization of latex-based ethnographic African adhesives and its archaeological implications.* (Under review)
-
+- **2024** Chasan, Rivka, Liliana Iwona Baron, **Sebastian Fajardo**, Yonatan Sahle, Geeske Langejans. *Molecular characterization of latex-based ethnographic African adhesives and its archaeological implications.* (Under review).
+- **2024** **Fajardo, Sebastian** and Argüello, Pedro. *Sociopolitical Evolution and Population Clustering Among Early Sedentary Communities in Northeastern Andes, Colombia.* Available at SSRN. [(Link)](http://dx.doi.org/10.2139/ssrn.4719106).
 
 **Peer-reviewed**
 
-- **2024** **Fajardo, Sebastian** and Argüello, Pedro. *Sociopolitical Evolution and Population Clustering Among Early Sedentary Communities in Northeastern Andes, Colombia.* Available at SSRN. [(Link)](http://dx.doi.org/10.2139/ssrn.4719106).
 - **2024** **Fajardo, Sebastian**, Jelte Zeekaf, Tinde van Andel, Christabel Maombe, Terry Nyambe, George Mudenda, Alessandro Aleo, Martha Nchimunya Kayuni, Geeske Langejans. *Traditional adhesive production systems in Zambia and archaeological implications.* Journal of Anthropological Archaeology. [(Link)](https://doi.org/10.1016/j.jaa.2024.101586).
 - **2023** **Fajardo, Sebastian**, Paul Kozowyk, Geeske Langejans. *Measuring ancient technological complexity and its cognitive implications using Petri nets.* Scientific Reports. [(Link)](http://doi.org/10.1038/s41598-023-42078-1).
 - **2023** Kozowyk, Paul, **Sebastian Fajardo**, Geeske Langejans. *Scaling Palaeolithic tar production processes exponentially increases behavioural complexity.* Scientific Reports, 13, 14709. [(Link)](http://doi.org/10.1038/s41598-023-41963-z).
