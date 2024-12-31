@@ -12,9 +12,9 @@ title                    : "Sebastian Fajardo"
 title_separator          : "-"
 name                     : &name "Sebastian Fajardo"
 description              : &description "Computational archaeologist"
-url                      : https://sdfajardob.github.io/sfajardo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sdfajardob.github.io/site/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sdfajardob/sfajardo.github.io"
+repository               : "sdfajardob/site"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
