@@ -12,8 +12,8 @@ title                    : "Sebastian Fajardo"
 title_separator          : "-"
 name                     : &name "Sebastian Fajardo"
 description              : &description "Computational archaeologist"
-url                      : https://sdfajardob.github.io/site/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://sdfajardob.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/site" # the subpath of your site, e.g. "/blog"
 repository               : "sdfajardob/site"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
