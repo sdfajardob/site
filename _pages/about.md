@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on understanding relations between community formation, settlement patterns, and technological complexity. I aim to identify structural and behavioural variables that control processes of human adaptation. I have also experience in environmental impact assessment, stakeholder management, and cultural heritage management. I use different analytical methods including quantitative and qualitative analysis, geospatial analysis, statistical analysis, network analysis, machine learning, and computational modelling. I also conduct fieldwork in both Colombia and Zambia.
+My research focuses on understanding the evolution of human communities, settlement patterns, and technological complexity. Through modeling and multiple analytical methods, I seek structural variables that influence human adaptation and collective problem-solving.
