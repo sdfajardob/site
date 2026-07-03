@@ -24,10 +24,10 @@ author:
   avatar           : "portrait1.png"
   name             : "Sebastian Fajardo"
   pronouns         : # example: "she/her"  
-  bio              : "Exploring ancient complex systems"
-  location         : "Earth"
+  bio              : "Computational scientist studying the evolution of technology"
+  location         : "Netherlands"
   employer         : "Leiden University"
-  uri              : # URL
+  uri              : "https://sdfajardob.github.io/site/"
   email            : "s.d.fajardo.bernal@liacs.leidenuniv.nl" 
 
   # Academic websites
@@ -35,8 +35,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=lSeezQ8AAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1216-821X"
-  pubmed           : # URL
-  researchgate     : # URL
+  pubmed           : 
+  researchgate     : "https://www.researchgate.net/profile/Sebastian-Fajardo-2?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -75,7 +75,7 @@ author:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
